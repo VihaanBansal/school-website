@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family:monospace;
+    background-color: orange;
+}
+#schoolname{
+    background-color: aqua;
+}
+#campuslife{
+    background-color:aquamarine;
+}
+#achievments{
+    background-color:blue;
+}
+#what_is_new{
+    background-color:cadetblue;
+}
+#alumni{
+    background-color:chocolate;
+}
+#contact{
+    background-color:coral;
+}
